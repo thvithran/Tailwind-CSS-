@@ -1,7 +1,7 @@
 # Tailwind-CSS-
 This is repo contains the projects which done by Tailwind CSS Framework. 
 
-p align="center">
+<p align="center">
   <a href="https://tailwindcss.com" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg">
